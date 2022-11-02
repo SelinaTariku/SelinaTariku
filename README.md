@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SelinaTariku
+- 👋 Hi, I’m @Selamawit Tariku
 - 👀 I’m interested in website Development 
 - 🌱 I’m currently learning ...HTML,CSS,JAVASCRIPT and ASP
 - 💞️ I’m looking to collaborate on.... some website development company
